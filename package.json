@@ -23,12 +23,12 @@
   "license": "MIT",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/Pedrojok01/Pedrojok01.github.io/issues",
+    "url": "https://github.com/Pedrojok01/pedrojok-portfolio/issues",
     "email": "pedrojok@pm.me"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pedrojok01/Pedrojok01.github.io"
+    "url": "https://github.com/Pedrojok01/pedrojok-portfolio"
   },
   "dependencies": {
     "three": "0.186.1"
